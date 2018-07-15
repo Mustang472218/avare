@@ -105,7 +105,7 @@ public class Traffic {
             /*
              * Dangerously above us
              */
-            color = Color.MAGENTA;
+            color = Color.ORANGE;
         }
  
         return color;
